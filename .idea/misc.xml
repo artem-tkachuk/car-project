@@ -3,5 +3,9 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ReactNativePackager" nodePath="project" reactNativePackagePath="/usr/local/lib/node_modules/react-native-cli" workingDirectory="$PROJECT_DIR$/app" />
+  <component name="ReactNativePackager" nodePath="project" reactNativePackagePath="/usr/local/lib/node_modules/react-native-cli" workingDirectory="$PROJECT_DIR$/app">
+    <scripts>
+      <item value="start" />
+    </scripts>
+  </component>
 </project>

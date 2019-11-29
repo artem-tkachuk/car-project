@@ -3,6 +3,4 @@ server/node_modules/
 
 .DS_Store
 
-app/node_modules/
-
 .idea/
