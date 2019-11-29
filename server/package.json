@@ -19,6 +19,7 @@
   "homepage": "https://github.com/artem-tkachuk/car-project#readme",
   "dependencies": {
     "@types/express": "^4.17.2",
+    "aws-sdk": "^2.580.0",
     "express": "^4.17.1",
     "typescript": "^3.7.2"
   }
